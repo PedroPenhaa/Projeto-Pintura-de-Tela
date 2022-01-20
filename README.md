@@ -1,0 +1,2 @@
+# Projeto-Pintura-de-Tela
+Neste projeto, o objetivo foi realizar a criação de um programa o qual realizasse uma função que é muito semelhante à do balde do programa Paint do Windows. O programa precisava ser desenvolvido na linguagem C e utilizando conceitos ponteiro era necessário ser capaz de manipular arquivos. Desta maneira, desenhos pré-escolhidos são inicializados no prompt de comando de maneira que o usuário consiga observa-lo e "pintalo", com a opção de salvar o novo desenho que foi alterado através do prompt.
